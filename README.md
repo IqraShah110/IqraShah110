@@ -1,4 +1,4 @@
-![logo](https://github.com/IqraShah110/IqraShah110/blob/main/Capture.PNG)
+![logo](https://github.com/IqraShah110/IqraShah110/blob/main/Screenshot%20(39).png)
 <h1 align="center">Hello 👋, I'm Iqra Shah</h1>
 <h3 align="center">University Student working in Coding.</h3>
 
