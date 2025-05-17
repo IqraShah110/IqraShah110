@@ -1,10 +1,9 @@
 <h1 align="center">Hello 👋, I'm Iqra Shah</h1>
 <h3 align="center">A Passionate Computer Science Student & Front-End Developer</h3>
 <p align="center">
-  <img src="https://github.com/IqraShah110/IqraShah110/blob/main/Screenshot%20(39).png" alt="Iqra Shah" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/IqraShah110/IqraShah110/blob/main/Screenshot%20(39).png" alt="Iqra Shah" width="420" style="border-radius: 70%;" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 ---
 <p>
 - 🎓 I'm currently studying **Computer Science** <br>
